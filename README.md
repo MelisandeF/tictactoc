@@ -11,3 +11,5 @@ Il n'y a pas besoin de Gem Spécifiques pour lancer le jeu.
 Il y a une classe et plusieurs méthode. 
 
 Malheuresement vous constaterez que le code ne fonctionne pas. J'ai fais mon max mais il ne charge pas en entier.
+
+Le docuement a été principalement fait avec la team Strasbourg, nottament Ugo Gessa.
